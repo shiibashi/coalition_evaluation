@@ -1,0 +1,16 @@
+player,action,step,score
+user1,item1,1,0.0
+user1,item2,2,0.0
+user1,item3,3,1.0
+user2,item1,1,0.0
+user2,item3,2,0.0
+user3,item2,1,0.0
+user3,item1,2,1.0
+user4,item3,1,0.0
+user4,item2,2,0.0
+user5,item4,1,0.0
+user5,item3,2,1.0
+user6,item2,1,0.0
+user6,item3,2,1.0
+user7,item5,1,1.0
+user8,item6,1,0.0
